@@ -4,7 +4,7 @@ title: Physics in a Second Language when French is Your First One
 date: 2021-08-30 15:06:00
 description:
 tags: language, english
-categories: academic life
+categories: academic-life
 citation: true
 ---
 
