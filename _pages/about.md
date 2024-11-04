@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uni-ulm.de/en/nawi/institut-fuer-theoretische-physik-start-page/'>Institut für Theoretische Physik, Universität Ulm</a>.
+subtitle: <a href='https://www.uni-ulm.de/en/nawi/institut-fuer-theoretische-physik-start-page/'>Institut für Theoretische Physik, Universität Ulm</a>
 
 profile:
   align: right
   image: 8K7A0702.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 4113 - Building M26</p>
+    <p>Building M26 - Room 4113</p>
     <p>Albert Einstein Allee 11</p>
-    <p>89081, Ulm, Germany</p>
+    <p>D - 89081 Ulm</p>
+    <p>Germany</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
