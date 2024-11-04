@@ -15,6 +15,15 @@ nav_order: 2
 A list of my publications can be found on the [Publication](https://tfmlax.github.io/publications/) or on [Google Scholar](https://scholar.google.com/citations?hl=fr&user=m4wXC_kAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## 👨🏻‍💻 Software Development
+
+{% if site.data.repositories.github_users %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
 	
 ### MPSDynamics.jl
 I am leading the development of the open-source Julia package <a href="https://github.com/shareloqs/MPSDynamics/">`MPSDynamics.jl`</a>. This package is an implementation of the numerically exact T-TEDOPA method for the study of non-Markovian open quantum systems.
@@ -31,14 +40,6 @@ In praise of the package:
 ### Chaincoeffs
 <a href="https://github.com/tfmlaX/Chaincoeffs">Chaincoeffs</a> is a set of routines to generate finite temperature chain coefficients (on-site energy, hopping energy and coupling constant) of a chain-mapped bosonic environment for the T-TEDOPA method. It has now been integrated natively in `MPSDynamics.jl`.
 
-{% if site.data.repositories.github_users %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
         
 ## 💬 Talks
 
