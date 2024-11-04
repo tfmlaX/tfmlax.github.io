@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physicist, you should have a blog!
-date: 2024-11-04 20:00:00
+date: 2024-11-03 20:00:00
 description: In the 21st century, we should not rely solely on research papers to share scientifically valuable information
 tags: blog, communication, peer review
 categories: academic life
