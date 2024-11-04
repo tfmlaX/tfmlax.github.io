@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 4113 - Building M26</p>
     <p>Albert Einstein Allee 11</p>
-    <p>89081, Ulm, Germant</p>
+    <p>89081, Ulm, Germany</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
