@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.uni-ulm.de/en/nawi/institut-fuer-theoretische-physik-start-page/'>Institut für Theoretische Physik, Universität Ulm</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 8K7A0702.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 4113 - Building M26</p>
+    <p>Albert Einstein Allee 11</p>
+    <p>89081, Ulm, Germant</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a postdoctoral researcher at the Institute for theoretical physics in Ulm working on quantum effects in biological systems, and especially on the understanding of Chiral Induced Spin Selectivity (CISS) in organic molecules such as DNA.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a PhD in physics awarded for my work on theoretical descriptions of dissipation at the nanoscale beyond the markovian approximation under the supervision of [Brendon W. Lovett](https://www.st-andrews.ac.uk/~bwl4/Research_Page/Welcome.html) at the University of St Andrews, and [Alex W. Chin](https://w3.insp.upmc.fr/recherche-2/equipes-de-recherche/photonique-et-coherence-de-spin/photonique-et-coherence-de-spin-theorie-des-systemes-quantiques-ouverts-et-des-materiaux-nano-fonctionnels/) at the Institut des Nanosciences de Paris (Sorbonne Université). My thesis can be read here: [*Beyond Markovian Dissipation at the Nanoscale*](https://theses.hal.science/tel-04135149).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests revolve around studying the - most of the time - out-of-equilibrium dynamics of Open Quantum Systems (OQS) strongly coupled to their environment(s). This problematic is relevant for novel quantum technologies, condensed matter or biological systems (e.g. photosynthesis in plants) where strong coupling seems to be central for explaining several phenomena. More generally I work on non-Markovian OQS, i.e. when the environment is not forgetful of the past state of the system, and Tensor Networks techniques.
+
+Prior to that, I worked in <em>deep tech</em> innovation at the Parisian start-up incubator [Agoranov](https://www.agoranov.com/) as a Junior Entrepreneur in Residence.
+
+I graduated in general theoretical physics from the [École Normale Supérieure de Lyon](http://www.ens-lyon.fr/MasterSDM/), and in scientific innovation from [PSL Research University](https://psl.eu/)'s Institute of Technology
+and Innovation (ENS de Paris, École des Mines and Observatoire de Paris). I also passed the agrégation de physique-chimie national competitive examination.
