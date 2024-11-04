@@ -26,7 +26,7 @@ Not a blog on which you commit yourself to write an entertaining/insighful/witty
 * anything that you know a few fellow reserachers somewhere might find interesting or useful
 That is to say, everything that doesn't belong to a paper but is scientifically interesting.
 
-In the humanities and social sciences have [https://hypotheses.org/](Hypotheses) a platform that allow you to create a research blog with an ISSN and individual DOI for each blog post (based on Wordpress and it even supports LaTeX!) - making them easily citable. 
+In the humanities and social sciences have [Hypotheses](https://hypotheses.org/) a platform that allow you to create a research blog with an ISSN and individual DOI for each blog post (based on Wordpress and it even supports LaTeX!) - making them easily citable. 
 This is great! Unfortunately, we don't have anything similar for the natural sciences as far as I know.
 
 However, at a time where publishing something online as never been easier I really wish every physicist had a blog.
