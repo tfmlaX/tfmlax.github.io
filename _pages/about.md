@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently a postdoctoral researcher at the Institute for theoretical physics in Ulm working on quantum effects in biological systems, and especially on the understanding of Chiral Induced Spin Selectivity (CISS) in organic molecules such as DNA.
+I'm currently a postdoctoral researcher at the Institute of Theoretical Physics in Ulm working on quantum effects in biological systems, and especially on the understanding of Chiral Induced Spin Selectivity (CISS) in organic molecules such as DNA.
 
 I hold a PhD in physics awarded for my work on theoretical descriptions of dissipation at the nanoscale beyond the markovian approximation under the supervision of [Brendon W. Lovett](https://www.st-andrews.ac.uk/~bwl4/Research_Page/Welcome.html) at the University of St Andrews, and [Alex W. Chin](https://w3.insp.upmc.fr/recherche-2/equipes-de-recherche/photonique-et-coherence-de-spin/photonique-et-coherence-de-spin-theorie-des-systemes-quantiques-ouverts-et-des-materiaux-nano-fonctionnels/) at the Institut des Nanosciences de Paris (Sorbonne Université). My thesis can be read here: [*Beyond Markovian Dissipation at the Nanoscale*](https://theses.hal.science/tel-04135149).
 
