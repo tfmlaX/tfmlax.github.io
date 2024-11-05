@@ -9,7 +9,7 @@ nav_order: 2
 
 > Ignorance is the ground of thought.
 >
-> Ursula K. Le Guin, *The Left Hand of Darkness*
+> — Ursula K. Le Guin, *The Left Hand of Darkness*
 
 
 A list of my publications can be found on the [Publication](https://tfmlax.github.io/publications/) or on [Google Scholar](https://scholar.google.com/citations?hl=fr&user=m4wXC_kAAAAJ&view_op=list_works&sortby=pubdate).
