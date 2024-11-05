@@ -10,7 +10,7 @@ nav_order: 3
 
 > Effective teaching does not simply teach students what is correct -- it also insures that students do not believe what is incorrect.
 > 
-> Daniel F. Styer, *Commom Misconceptions Regarding Quantum Mechanics*
+> — Daniel F. Styer, *Commom Misconceptions Regarding Quantum Mechanics*
 
 ## Prépa Emc2 - Hadamard
 
