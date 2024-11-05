@@ -29,4 +29,4 @@ nav_order: 3
 * Lecturer and tutor in first year of medical school (Fall semester 2015-2016, 3 groups, ~32h)
 
 ## Agrégation
-I was laureate in 2019 of the [Agrégation de sciences-physiques](https://en.wikipedia.org/wiki/Agr%C3%A9gation), a physics national highly competitive examination (~7% success rate) to select teachers for higher education (universities and <em>classe prépa</em> - undergraduate level) and highschools</p>
+I was laureate in 2019 of the [Agrégation de sciences-physiques](https://en.wikipedia.org/wiki/Agr%C3%A9gation), a physics national highly competitive examination (~7% success rate) to select teachers for higher education (universities and <em>classe prépa</em> - undergraduate level) and highschools
