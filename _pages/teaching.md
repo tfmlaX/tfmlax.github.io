@@ -16,7 +16,7 @@ nav_order: 3
 
 * Physics teacher in [MP/MP*](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) (2021)
 * Introduction to Python course for first year student in MPSI (2021)
-  * [Notes and exercises](assets/pdf/Introduction_Python.pdf) (in French)
+  * [Notes and exercises](../assets/pdf/Introduction_Python.pdf) (in French)
 
 
 ## University of St Andrews
