@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-03
+date: 2025-04-24
 inline: true
 related_posts: false
 ---
 
-[My latest paper](https://quantum-journal.org/papers/q-2024-04-03-1305/) on the control of quantum nanodevices using a non-Markovian environment has been published in Quantum! 🎉
+Our [new preprint](https://doi.org/10.48550/arXiv.2503.17282) on picosecond-long-lived excitonic coherences at finite temperature in the Fenna-Matthews-Olson complex using for the first time non-perturbative, accurate microscopic model simulations is on arXiv! 🎉
