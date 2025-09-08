@@ -6,7 +6,11 @@ description:
 nav: true
 nav_order: 4
 ---
+## La Science, CQFD
 
+On September, 4th 2025 I had the pleasure to participate to the radio program *La Science, CQFD* on the French public radio France Culture to talk about quantum biology.
+
+The show can be podcasted [here](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/biologie-quantique-la-nouvelle-mecanique-du-vivant-2606192).
 
 ## Converse ta Science
 
