@@ -13,7 +13,8 @@ nav_order: 3
 > — Daniel F. Styer, *Commom Misconceptions Regarding Quantum Mechanics*
 
 ## Ulm University
-* Tutor in General Relativity (Winter semester 2025)
+* Lecturer in Tensor Networks: Fundamentals and Applications (Summer Semester 2026, MSc-level) 
+* Tutor in General Relativity (Winter semester 2025/2026, MSc-level)
 
 ## Prépa Emc2 - Hadamard
 
